@@ -1,3 +1,10 @@
+/*
+  Team top Qual Memes -- Richard Lin, Nalanda Sharadjaya, Janet Zhang
+  APCS2 pd 5
+  hw45 -- Sort of Like Magic
+  2016-05-24
+*/
+
 /*****************************************************
  * class Heapsort  ---  sorts in-place
  * by heapifying data, then repeatedly pulling from heap
